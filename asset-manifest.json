@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodoMachine/static/css/main.091aa4bd.chunk.css",
+    "main.js": "/TodoMachine/static/js/main.298cd1e5.chunk.js",
+    "main.js.map": "/TodoMachine/static/js/main.298cd1e5.chunk.js.map",
+    "runtime-main.js": "/TodoMachine/static/js/runtime-main.de66c911.js",
+    "runtime-main.js.map": "/TodoMachine/static/js/runtime-main.de66c911.js.map",
+    "static/js/2.75e2046f.chunk.js": "/TodoMachine/static/js/2.75e2046f.chunk.js",
+    "static/js/2.75e2046f.chunk.js.map": "/TodoMachine/static/js/2.75e2046f.chunk.js.map",
+    "index.html": "/TodoMachine/index.html",
+    "static/css/main.091aa4bd.chunk.css.map": "/TodoMachine/static/css/main.091aa4bd.chunk.css.map",
+    "static/js/2.75e2046f.chunk.js.LICENSE.txt": "/TodoMachine/static/js/2.75e2046f.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/TodoMachine/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/TodoMachine/static/media/delete.331149da.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de66c911.js",
+    "static/js/2.75e2046f.chunk.js",
+    "static/css/main.091aa4bd.chunk.css",
+    "static/js/main.298cd1e5.chunk.js"
+  ]
+}
